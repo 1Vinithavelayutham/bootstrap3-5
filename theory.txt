@@ -1,2 +1,46 @@
-what is Bootstrap
- IT is a frame work for CSS
+Create a folder
+   1.Registration form
+   2.Login form
+   3.Product pages
+        -user see all products
+        -filter[product category ,price filter]
+   4.Product detail pages
+   5.cart pages
+   6.place order pages
+   7.About us
+   8.contact us     
+what is Bootstrap?
+ IT is a frame work for CSS pre-built template to create a develope UI
+
+ Linking Bootstrap
+ 1) offline
+     1) Go to www.getbootstrap.com
+     2) Go to documentation
+     3) download css and js files in static/css and static/js
+     4)
+ 2)online
+
+
+
+
+ Layout
+ ======
+ Bootstrap is 12 column Layout
+ Means web page is divided into 12 columns
+
+
+ layout of the webpage
+ container
+
+
+ Screens in Ecomm project
+ 1.login Screens
+ 2.register screen
+ 3.Product view screen
+
+
+ <-------col-md-3 ---------><---------col-md-9---------->
+       Filters
+       1.category
+       2.price    
+       
