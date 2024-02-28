@@ -1,3 +1,7 @@
 .anchor{
        text-decoration: none;
 }
+.social{
+       display: inline-block;
+       margin-right:50px;
+}
